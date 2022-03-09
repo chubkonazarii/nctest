@@ -1,0 +1,33 @@
+Summary: USPS International First-Class service is not calculating 
+
+Description: 
+USPS International First Class service is not displaying in the process of shipping calculation on th Moree website and in the backoffice 
+
+Pre-conditions: 
+- USPS International First Class service enabled on the product, warehouse and shipping settings 
+- Customer with international address 
+- Product have weight and dimensions in accordance to USPS shipping rules: 
+
+https://pe.usps.com/text/imm/immc2_016.htm?_gl=1*1tiass0*_ga*ZmFsc2U.*_ga_3NXP3C8S9V*MTY0MjE4NDcxNy4xMi4xLjE2NDIxODU2NDUuMA.. 
+
+Steps to reproduce: 
+1) Navigate to the website, sign in 
+2) Add the product to the cart 
+2) Proceed the checkout to the shipping step 
+
+or 
+1) Log in the backoffice 
+2) Press Orders -> New Order 
+3) Choose the customer, then add the product 
+4) Press 'Calculate shipping' 
+
+Actual result: 
+USPS International First Class service is not displaying 
+https://prnt.sc/26evc3c 
+
+Expected result: 
+USPS International First Class service is calucuated in accordance with USPS rates 
+
+Reproduced: Three Waters Farm, ecommerceventure3 
+
+--------------------------------------------------------------------------------
