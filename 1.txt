@@ -6,3 +6,4 @@ new branch file
 new branch file
 new branch file
 new branch file
+new test conflict file
