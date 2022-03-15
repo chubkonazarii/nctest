@@ -1,16 +1,6 @@
 total 104707121 qqqqqqqqqqqqq
 total 104707121 wwwwwwwwwwwww
 
-  test test 111
-new line to test file
-
-$ git push
-Enumerating objects: 4, done.
-Counting objects: 100% (4/4), done.
-Delta compression using up to 12 threads
-Compressing objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 859 bytes | 859.00 KiB/s, done.
->>>>>>> d69b86dbdcdf92cec1d46f74ec72d940955fe4f7
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/chubkonazarii/nctest.git
-   68786f5..5e09f2e  main -> main
+ 123
+ 123
+ 132
